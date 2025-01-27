@@ -25,7 +25,7 @@ migrations_dir = "src/db/migrations"
 
 [[kv_namespaces]]
 binding = "NEXT_CACHE_WORKERS_KV"
-id = "c6f2b077e0a34a84b3598558eb833055"
+id = "d9cab6a142534e7d8179f43a42f43d72"
 
 [vars]
 EMAIL_FROM = "hello@saas-stack.startup-studio.dev"
