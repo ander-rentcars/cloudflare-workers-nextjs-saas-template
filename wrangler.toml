@@ -20,7 +20,7 @@ mode = "smart"
 [[d1_databases]]
 binding = "DATABASE"
 database_name = "cloudflare-workers-nextjs-saas"
-database_id = "94dd1269-a29c-4621-adff-1762d1af6926"
+database_id = "02a5e7b0-004d-48f0-9010-7938f5068931"
 migrations_dir = "src/db/migrations"
 
 [[kv_namespaces]]
